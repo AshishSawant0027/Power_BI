@@ -75,5 +75,6 @@ This repository contains multiple Power BI projects that demonstrate my expertis
   - Country-wise performance tracking
   - Future growth rate prediction using historical data
   
-![image](https://github.com/user-attachments/assets/499c22c5-b8c7-4ab4-8a72-28957c4121e5)
+![image](https://github.com/user-attachments/assets/edbb315b-9f7f-4009-81a3-2eea73ed7e63)
+
 
